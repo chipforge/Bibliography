@@ -11,3 +11,10 @@ as my personal list for
 - Space Exploration
 
 This list is imperfect, but maintained.
+
+Use different Tags for annotate saturation during check-in:
+- [DRAFT]
+- [FIXED]
+- [ENHANCED]
+- [VERIFIED]
+- [COMPLETE]
